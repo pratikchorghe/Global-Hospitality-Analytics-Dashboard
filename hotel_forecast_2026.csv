@@ -1,0 +1,185 @@
+Date,Year,Quarter,Scope,Chain_ID,Country,Forecast_Revenue_M,Lower_Bound_M,Upper_Bound_M,Model,Data_Type
+2025-01-01,2025,Q1,Global,ALL,ALL,550.13,266.5,810.86,Prophet,Forecast
+2025-04-01,2025,Q2,Global,ALL,ALL,715.67,455.29,978.45,Prophet,Forecast
+2025-07-01,2025,Q3,Global,ALL,ALL,812.09,545.41,1105.66,Prophet,Forecast
+2025-10-01,2025,Q4,Global,ALL,ALL,732.38,475.16,1007.67,Prophet,Forecast
+2026-01-01,2026,Q1,Global,ALL,ALL,851.57,572.53,1132.74,Prophet,Forecast
+2026-04-01,2026,Q2,Global,ALL,ALL,874.8,580.08,1126.92,Prophet,Forecast
+2026-07-01,2026,Q3,Global,ALL,ALL,965.6,703.31,1231.75,Prophet,Forecast
+2026-10-01,2026,Q4,Global,ALL,ALL,816.9,537.73,1083.14,Prophet,Forecast
+2025-01-01,2025,Q1,Chain,CHN01,ALL,104.473,91.936,117.01,Linear Regression,Forecast
+2025-04-01,2025,Q2,Chain,CHN01,ALL,93.468,82.252,104.684,Linear Regression,Forecast
+2025-07-01,2025,Q3,Chain,CHN01,ALL,108.068,95.1,121.036,Linear Regression,Forecast
+2025-10-01,2025,Q4,Chain,CHN01,ALL,96.245,84.696,107.794,Linear Regression,Forecast
+2026-01-01,2026,Q1,Chain,CHN01,ALL,113.157,99.578,126.736,Linear Regression,Forecast
+2026-04-01,2026,Q2,Chain,CHN01,ALL,101.238,89.089,113.387,Linear Regression,Forecast
+2026-07-01,2026,Q3,Chain,CHN01,ALL,117.051,103.005,131.097,Linear Regression,Forecast
+2026-10-01,2026,Q4,Chain,CHN01,ALL,104.245,91.736,116.754,Linear Regression,Forecast
+2025-01-01,2025,Q1,Chain,CHN02,ALL,71.28,62.726,79.834,Linear Regression,Forecast
+2025-04-01,2025,Q2,Chain,CHN02,ALL,96.521,84.938,108.104,Linear Regression,Forecast
+2025-07-01,2025,Q3,Chain,CHN02,ALL,97.74,86.011,109.469,Linear Regression,Forecast
+2025-10-01,2025,Q4,Chain,CHN02,ALL,71.101,62.569,79.633,Linear Regression,Forecast
+2026-01-01,2026,Q1,Chain,CHN02,ALL,75.872,66.767,84.977,Linear Regression,Forecast
+2026-04-01,2026,Q2,Chain,CHN02,ALL,102.739,90.41,115.068,Linear Regression,Forecast
+2026-07-01,2026,Q3,Chain,CHN02,ALL,104.036,91.552,116.52,Linear Regression,Forecast
+2026-10-01,2026,Q4,Chain,CHN02,ALL,75.681,66.599,84.763,Linear Regression,Forecast
+2025-01-01,2025,Q1,Chain,CHN03,ALL,84.709,74.544,94.874,Linear Regression,Forecast
+2025-04-01,2025,Q2,Chain,CHN03,ALL,102.086,89.836,114.336,Linear Regression,Forecast
+2025-07-01,2025,Q3,Chain,CHN03,ALL,102.552,90.246,114.858,Linear Regression,Forecast
+2025-10-01,2025,Q4,Chain,CHN03,ALL,91.946,80.912,102.98,Linear Regression,Forecast
+2026-01-01,2026,Q1,Chain,CHN03,ALL,92.242,81.173,103.311,Linear Regression,Forecast
+2026-04-01,2026,Q2,Chain,CHN03,ALL,111.164,97.824,124.504,Linear Regression,Forecast
+2026-07-01,2026,Q3,Chain,CHN03,ALL,111.672,98.271,125.073,Linear Regression,Forecast
+2026-10-01,2026,Q4,Chain,CHN03,ALL,100.123,88.108,112.138,Linear Regression,Forecast
+2025-01-01,2025,Q1,Chain,CHN04,ALL,82.605,72.692,92.518,Linear Regression,Forecast
+2025-04-01,2025,Q2,Chain,CHN04,ALL,80.094,70.483,89.705,Linear Regression,Forecast
+2025-07-01,2025,Q3,Chain,CHN04,ALL,95.909,84.4,107.418,Linear Regression,Forecast
+2025-10-01,2025,Q4,Chain,CHN04,ALL,82.698,72.774,92.622,Linear Regression,Forecast
+2026-01-01,2026,Q1,Chain,CHN04,ALL,88.735,78.087,99.383,Linear Regression,Forecast
+2026-04-01,2026,Q2,Chain,CHN04,ALL,86.038,75.713,96.363,Linear Regression,Forecast
+2026-07-01,2026,Q3,Chain,CHN04,ALL,103.027,90.664,115.39,Linear Regression,Forecast
+2026-10-01,2026,Q4,Chain,CHN04,ALL,88.836,78.176,99.496,Linear Regression,Forecast
+2025-01-01,2025,Q1,Chain,CHN05,ALL,101.599,89.407,113.791,Linear Regression,Forecast
+2025-04-01,2025,Q2,Chain,CHN05,ALL,119.568,105.22,133.916,Linear Regression,Forecast
+2025-07-01,2025,Q3,Chain,CHN05,ALL,130.465,114.809,146.121,Linear Regression,Forecast
+2025-10-01,2025,Q4,Chain,CHN05,ALL,115.436,101.584,129.288,Linear Regression,Forecast
+2026-01-01,2026,Q1,Chain,CHN05,ALL,110.501,97.241,123.761,Linear Regression,Forecast
+2026-04-01,2026,Q2,Chain,CHN05,ALL,130.043,114.438,145.648,Linear Regression,Forecast
+2026-07-01,2026,Q3,Chain,CHN05,ALL,141.895,124.868,158.922,Linear Regression,Forecast
+2026-10-01,2026,Q4,Chain,CHN05,ALL,125.549,110.483,140.615,Linear Regression,Forecast
+2025-01-01,2025,Q1,Chain,CHN06,ALL,20.253,17.823,22.683,Linear Regression,Forecast
+2025-04-01,2025,Q2,Chain,CHN06,ALL,21.786,19.172,24.4,Linear Regression,Forecast
+2025-07-01,2025,Q3,Chain,CHN06,ALL,26.67,23.47,29.87,Linear Regression,Forecast
+2025-10-01,2025,Q4,Chain,CHN06,ALL,19.817,17.439,22.195,Linear Regression,Forecast
+2026-01-01,2026,Q1,Chain,CHN06,ALL,21.527,18.944,24.11,Linear Regression,Forecast
+2026-04-01,2026,Q2,Chain,CHN06,ALL,23.157,20.378,25.936,Linear Regression,Forecast
+2026-07-01,2026,Q3,Chain,CHN06,ALL,28.348,24.946,31.75,Linear Regression,Forecast
+2026-10-01,2026,Q4,Chain,CHN06,ALL,21.064,18.536,23.592,Linear Regression,Forecast
+2025-01-01,2025,Q1,Chain,CHN07,ALL,25.325,22.286,28.364,Linear Regression,Forecast
+2025-04-01,2025,Q2,Chain,CHN07,ALL,33.625,29.59,37.66,Linear Regression,Forecast
+2025-07-01,2025,Q3,Chain,CHN07,ALL,32.48,28.582,36.378,Linear Regression,Forecast
+2025-10-01,2025,Q4,Chain,CHN07,ALL,24.057,21.17,26.944,Linear Regression,Forecast
+2026-01-01,2026,Q1,Chain,CHN07,ALL,27.235,23.967,30.503,Linear Regression,Forecast
+2026-04-01,2026,Q2,Chain,CHN07,ALL,36.161,31.822,40.5,Linear Regression,Forecast
+2026-07-01,2026,Q3,Chain,CHN07,ALL,34.93,30.738,39.122,Linear Regression,Forecast
+2026-10-01,2026,Q4,Chain,CHN07,ALL,25.871,22.766,28.976,Linear Regression,Forecast
+2025-01-01,2025,Q1,Chain,CHN08,ALL,71.495,62.916,80.074,Linear Regression,Forecast
+2025-04-01,2025,Q2,Chain,CHN08,ALL,74.581,65.631,83.531,Linear Regression,Forecast
+2025-07-01,2025,Q3,Chain,CHN08,ALL,95.319,83.881,106.757,Linear Regression,Forecast
+2025-10-01,2025,Q4,Chain,CHN08,ALL,75.079,66.07,84.088,Linear Regression,Forecast
+2026-01-01,2026,Q1,Chain,CHN08,ALL,76.512,67.331,85.693,Linear Regression,Forecast
+2026-04-01,2026,Q2,Chain,CHN08,ALL,79.814,70.236,89.392,Linear Regression,Forecast
+2026-07-01,2026,Q3,Chain,CHN08,ALL,102.007,89.766,114.248,Linear Regression,Forecast
+2026-10-01,2026,Q4,Chain,CHN08,ALL,80.347,70.705,89.989,Linear Regression,Forecast
+2025-01-01,2025,Q1,Chain,CHN09,ALL,47.454,41.76,53.148,Linear Regression,Forecast
+2025-04-01,2025,Q2,Chain,CHN09,ALL,50.834,44.734,56.934,Linear Regression,Forecast
+2025-07-01,2025,Q3,Chain,CHN09,ALL,60.232,53.004,67.46,Linear Regression,Forecast
+2025-10-01,2025,Q4,Chain,CHN09,ALL,52.225,45.958,58.492,Linear Regression,Forecast
+2026-01-01,2026,Q1,Chain,CHN09,ALL,51.658,45.459,57.857,Linear Regression,Forecast
+2026-04-01,2026,Q2,Chain,CHN09,ALL,55.338,48.697,61.979,Linear Regression,Forecast
+2026-07-01,2026,Q3,Chain,CHN09,ALL,65.568,57.7,73.436,Linear Regression,Forecast
+2026-10-01,2026,Q4,Chain,CHN09,ALL,56.852,50.03,63.674,Linear Regression,Forecast
+2025-01-01,2025,Q1,Chain,CHN10,ALL,79.87,70.286,89.454,Linear Regression,Forecast
+2025-04-01,2025,Q2,Chain,CHN10,ALL,93.21,82.025,104.395,Linear Regression,Forecast
+2025-07-01,2025,Q3,Chain,CHN10,ALL,102.123,89.868,114.378,Linear Regression,Forecast
+2025-10-01,2025,Q4,Chain,CHN10,ALL,85.274,75.041,95.507,Linear Regression,Forecast
+2026-01-01,2026,Q1,Chain,CHN10,ALL,84.477,74.34,94.614,Linear Regression,Forecast
+2026-04-01,2026,Q2,Chain,CHN10,ALL,98.586,86.756,110.416,Linear Regression,Forecast
+2026-07-01,2026,Q3,Chain,CHN10,ALL,108.014,95.052,120.976,Linear Regression,Forecast
+2026-10-01,2026,Q4,Chain,CHN10,ALL,90.193,79.37,101.016,Linear Regression,Forecast
+2025-01-01,2025,Q1,Chain,CHN11,ALL,40.833,35.933,45.733,Linear Regression,Forecast
+2025-04-01,2025,Q2,Chain,CHN11,ALL,45.916,40.406,51.426,Linear Regression,Forecast
+2025-07-01,2025,Q3,Chain,CHN11,ALL,43.898,38.63,49.166,Linear Regression,Forecast
+2025-10-01,2025,Q4,Chain,CHN11,ALL,39.872,35.087,44.657,Linear Regression,Forecast
+2026-01-01,2026,Q1,Chain,CHN11,ALL,44.843,39.462,50.224,Linear Regression,Forecast
+2026-04-01,2026,Q2,Chain,CHN11,ALL,50.426,44.375,56.477,Linear Regression,Forecast
+2026-07-01,2026,Q3,Chain,CHN11,ALL,48.209,42.424,53.994,Linear Regression,Forecast
+2026-10-01,2026,Q4,Chain,CHN11,ALL,43.788,38.533,49.043,Linear Regression,Forecast
+2025-01-01,2025,Q1,Chain,CHN12,ALL,62.004,54.564,69.444,Linear Regression,Forecast
+2025-04-01,2025,Q2,Chain,CHN12,ALL,62.158,54.699,69.617,Linear Regression,Forecast
+2025-07-01,2025,Q3,Chain,CHN12,ALL,84.291,74.176,94.406,Linear Regression,Forecast
+2025-10-01,2025,Q4,Chain,CHN12,ALL,56.499,49.719,63.279,Linear Regression,Forecast
+2026-01-01,2026,Q1,Chain,CHN12,ALL,63.79,56.135,71.445,Linear Regression,Forecast
+2026-04-01,2026,Q2,Chain,CHN12,ALL,63.948,56.274,71.622,Linear Regression,Forecast
+2026-07-01,2026,Q3,Chain,CHN12,ALL,86.719,76.313,97.125,Linear Regression,Forecast
+2026-10-01,2026,Q4,Chain,CHN12,ALL,58.126,51.151,65.101,Linear Regression,Forecast
+2025-01-01,2025,Q1,Country,ALL,Greece,44.176,38.875,49.477,Linear Regression,Forecast
+2025-04-01,2025,Q2,Country,ALL,Greece,60.098,52.886,67.31,Linear Regression,Forecast
+2025-07-01,2025,Q3,Country,ALL,Greece,70.064,61.656,78.472,Linear Regression,Forecast
+2025-10-01,2025,Q4,Country,ALL,Greece,48.255,42.464,54.046,Linear Regression,Forecast
+2026-01-01,2026,Q1,Country,ALL,Greece,49.874,43.889,55.859,Linear Regression,Forecast
+2026-04-01,2026,Q2,Country,ALL,Greece,67.849,59.707,75.991,Linear Regression,Forecast
+2026-07-01,2026,Q3,Country,ALL,Greece,79.101,69.609,88.593,Linear Regression,Forecast
+2026-10-01,2026,Q4,Country,ALL,Greece,54.478,47.941,61.015,Linear Regression,Forecast
+2025-01-01,2025,Q1,Country,ALL,France,51.892,45.665,58.119,Linear Regression,Forecast
+2025-04-01,2025,Q2,Country,ALL,France,43.479,38.262,48.696,Linear Regression,Forecast
+2025-07-01,2025,Q3,Country,ALL,France,41.994,36.955,47.033,Linear Regression,Forecast
+2025-10-01,2025,Q4,Country,ALL,France,42.724,37.597,47.851,Linear Regression,Forecast
+2026-01-01,2026,Q1,Country,ALL,France,56.943,50.11,63.776,Linear Regression,Forecast
+2026-04-01,2026,Q2,Country,ALL,France,47.711,41.986,53.436,Linear Regression,Forecast
+2026-07-01,2026,Q3,Country,ALL,France,46.082,40.552,51.612,Linear Regression,Forecast
+2026-10-01,2026,Q4,Country,ALL,France,46.884,41.258,52.51,Linear Regression,Forecast
+2025-01-01,2025,Q1,Country,ALL,South Korea,27.356,24.073,30.639,Linear Regression,Forecast
+2025-04-01,2025,Q2,Country,ALL,South Korea,42.787,37.653,47.921,Linear Regression,Forecast
+2025-07-01,2025,Q3,Country,ALL,South Korea,50.169,44.149,56.189,Linear Regression,Forecast
+2025-10-01,2025,Q4,Country,ALL,South Korea,38.014,33.452,42.576,Linear Regression,Forecast
+2026-01-01,2026,Q1,Country,ALL,South Korea,29.433,25.901,32.965,Linear Regression,Forecast
+2026-04-01,2026,Q2,Country,ALL,South Korea,46.036,40.512,51.56,Linear Regression,Forecast
+2026-07-01,2026,Q3,Country,ALL,South Korea,53.978,47.501,60.455,Linear Regression,Forecast
+2026-10-01,2026,Q4,Country,ALL,South Korea,40.9,35.992,45.808,Linear Regression,Forecast
+2025-01-01,2025,Q1,Country,ALL,Italy,32.523,28.62,36.426,Linear Regression,Forecast
+2025-04-01,2025,Q2,Country,ALL,Italy,23.522,20.699,26.345,Linear Regression,Forecast
+2025-07-01,2025,Q3,Country,ALL,Italy,45.157,39.738,50.576,Linear Regression,Forecast
+2025-10-01,2025,Q4,Country,ALL,Italy,26.056,22.929,29.183,Linear Regression,Forecast
+2026-01-01,2026,Q1,Country,ALL,Italy,33.351,29.349,37.353,Linear Regression,Forecast
+2026-04-01,2026,Q2,Country,ALL,Italy,24.12,21.226,27.014,Linear Regression,Forecast
+2026-07-01,2026,Q3,Country,ALL,Italy,46.305,40.748,51.862,Linear Regression,Forecast
+2026-10-01,2026,Q4,Country,ALL,Italy,26.718,23.512,29.924,Linear Regression,Forecast
+2025-01-01,2025,Q1,Country,ALL,Mexico,40.608,35.735,45.481,Linear Regression,Forecast
+2025-04-01,2025,Q2,Country,ALL,Mexico,42.932,37.78,48.084,Linear Regression,Forecast
+2025-07-01,2025,Q3,Country,ALL,Mexico,48.231,42.443,54.019,Linear Regression,Forecast
+2025-10-01,2025,Q4,Country,ALL,Mexico,31.965,28.129,35.801,Linear Regression,Forecast
+2026-01-01,2026,Q1,Country,ALL,Mexico,40.897,35.989,45.805,Linear Regression,Forecast
+2026-04-01,2026,Q2,Country,ALL,Mexico,43.237,38.049,48.425,Linear Regression,Forecast
+2026-07-01,2026,Q3,Country,ALL,Mexico,48.573,42.744,54.402,Linear Regression,Forecast
+2026-10-01,2026,Q4,Country,ALL,Mexico,32.192,28.329,36.055,Linear Regression,Forecast
+2025-01-01,2025,Q1,Country,ALL,China,34.475,30.338,38.612,Linear Regression,Forecast
+2025-04-01,2025,Q2,Country,ALL,China,41.639,36.642,46.636,Linear Regression,Forecast
+2025-07-01,2025,Q3,Country,ALL,China,37.827,33.288,42.366,Linear Regression,Forecast
+2025-10-01,2025,Q4,Country,ALL,China,38.615,33.981,43.249,Linear Regression,Forecast
+2026-01-01,2026,Q1,Country,ALL,China,37.126,32.671,41.581,Linear Regression,Forecast
+2026-04-01,2026,Q2,Country,ALL,China,44.841,39.46,50.222,Linear Regression,Forecast
+2026-07-01,2026,Q3,Country,ALL,China,40.736,35.848,45.624,Linear Regression,Forecast
+2026-10-01,2026,Q4,Country,ALL,China,41.584,36.594,46.574,Linear Regression,Forecast
+2025-01-01,2025,Q1,Country,ALL,UK,43.084,37.914,48.254,Linear Regression,Forecast
+2025-04-01,2025,Q2,Country,ALL,UK,49.076,43.187,54.965,Linear Regression,Forecast
+2025-07-01,2025,Q3,Country,ALL,UK,35.93,31.618,40.242,Linear Regression,Forecast
+2025-10-01,2025,Q4,Country,ALL,UK,24.854,21.872,27.836,Linear Regression,Forecast
+2026-01-01,2026,Q1,Country,ALL,UK,46.5,40.92,52.08,Linear Regression,Forecast
+2026-04-01,2026,Q2,Country,ALL,UK,52.968,46.612,59.324,Linear Regression,Forecast
+2026-07-01,2026,Q3,Country,ALL,UK,38.779,34.126,43.432,Linear Regression,Forecast
+2026-10-01,2026,Q4,Country,ALL,UK,26.825,23.606,30.044,Linear Regression,Forecast
+2025-01-01,2025,Q1,Country,ALL,Morocco,45.65,40.172,51.128,Linear Regression,Forecast
+2025-04-01,2025,Q2,Country,ALL,Morocco,47.071,41.422,52.72,Linear Regression,Forecast
+2025-07-01,2025,Q3,Country,ALL,Morocco,47.363,41.679,53.047,Linear Regression,Forecast
+2025-10-01,2025,Q4,Country,ALL,Morocco,39.906,35.117,44.695,Linear Regression,Forecast
+2026-01-01,2026,Q1,Country,ALL,Morocco,50.81,44.713,56.907,Linear Regression,Forecast
+2026-04-01,2026,Q2,Country,ALL,Morocco,52.391,46.104,58.678,Linear Regression,Forecast
+2026-07-01,2026,Q3,Country,ALL,Morocco,52.717,46.391,59.043,Linear Regression,Forecast
+2026-10-01,2026,Q4,Country,ALL,Morocco,44.417,39.087,49.747,Linear Regression,Forecast
+2025-01-01,2025,Q1,Country,ALL,UAE,22.361,19.678,25.044,Linear Regression,Forecast
+2025-04-01,2025,Q2,Country,ALL,UAE,27.923,24.572,31.274,Linear Regression,Forecast
+2025-07-01,2025,Q3,Country,ALL,UAE,41.645,36.648,46.642,Linear Regression,Forecast
+2025-10-01,2025,Q4,Country,ALL,UAE,28.069,24.701,31.437,Linear Regression,Forecast
+2026-01-01,2026,Q1,Country,ALL,UAE,22.974,20.217,25.731,Linear Regression,Forecast
+2026-04-01,2026,Q2,Country,ALL,UAE,28.69,25.247,32.133,Linear Regression,Forecast
+2026-07-01,2026,Q3,Country,ALL,UAE,42.788,37.653,47.923,Linear Regression,Forecast
+2026-10-01,2026,Q4,Country,ALL,UAE,28.839,25.378,32.3,Linear Regression,Forecast
+2025-01-01,2025,Q1,Country,ALL,Japan,21.37,18.806,23.934,Linear Regression,Forecast
+2025-04-01,2025,Q2,Country,ALL,Japan,19.388,17.061,21.715,Linear Regression,Forecast
+2025-07-01,2025,Q3,Country,ALL,Japan,29.421,25.89,32.952,Linear Regression,Forecast
+2025-10-01,2025,Q4,Country,ALL,Japan,25.081,22.071,28.091,Linear Regression,Forecast
+2026-01-01,2026,Q1,Country,ALL,Japan,20.729,18.242,23.216,Linear Regression,Forecast
+2026-04-01,2026,Q2,Country,ALL,Japan,18.807,16.55,21.064,Linear Regression,Forecast
+2026-07-01,2026,Q3,Country,ALL,Japan,28.538,25.113,31.963,Linear Regression,Forecast
+2026-10-01,2026,Q4,Country,ALL,Japan,24.329,21.41,27.248,Linear Regression,Forecast
